@@ -5,3 +5,6 @@ powershell でルートディレクトリに移動
 
 docker-compose build
 docker-compose up
+
+localhost に接続
+localhost/api にも繋がる
